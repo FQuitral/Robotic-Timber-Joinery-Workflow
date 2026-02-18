@@ -1,6 +1,6 @@
 """
-This example shows how to perform Hand-Eye calibration with ROBODK,
-automatically iterating through predefined poses and performing Eye-in-Hand calibration.
+Perform Hand-Eye calibration with ROBODK, automatically iterating 
+through predefined poses and performing Eye-in-Hand calibration.
 
 Saves Eye-in-Hand calibration results (transform matrix and residuals)
 to a YAML file.
@@ -294,4 +294,5 @@ if __name__ == "__main__":
         import traceback
         traceback.print_exc()
     finally:
+
         print("\nScript execution finished.")
