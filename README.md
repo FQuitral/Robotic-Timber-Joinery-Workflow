@@ -5,7 +5,7 @@ This repository presents an integrated design-to-fabrication workflow combining 
 
 ### Tested Requirements
 - [Python](https://www.python.org/) 3.9.12
-- [Zivid SDK](https://www.zivid.com/downloads)
+- [Zivid SDK](https://www.zivid.com/downloads) 2.15.0
 - [RoboDK](https://robodk.com/download) 5.9
 - [Numpy](https://numpy.org/)
 - [Open3D](https://www.open3d.org/)
