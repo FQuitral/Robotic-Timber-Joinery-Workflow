@@ -1,4 +1,4 @@
-# Robotic Timber Joinery Workflow
+# Robotic Timber Joinery
 ## Description
 
 This repository presents an integrated design-to-fabrication workflow combining parametric modeling, industrial robotics, and 3D vision sensing for the robotic fabrication of timber joinery.  
@@ -19,6 +19,7 @@ This repository presents an integrated design-to-fabrication workflow combining 
 The remaining files correspond to implementation outputs and datasets associated with the experimental workflow described in the publication:
 
 **DOI:** https://doi.org/10.3390/buildings15152712
+
 **URL:** https://www.mdpi.com/3429700
 
 ### Diagram of the workflow and the software and hardware used
