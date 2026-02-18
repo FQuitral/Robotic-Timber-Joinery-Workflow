@@ -18,8 +18,7 @@ This repository presents an integrated design-to-fabrication workflow combining 
 
 The remaining files correspond to implementation outputs and datasets associated with the experimental workflow described in the publication:
 
-**DOI:** https://doi.org/10.3390/buildings15152712
-
+**DOI:** https://doi.org/10.3390/buildings15152712 <br>
 **URL:** https://www.mdpi.com/3429700
 
 ### Diagram of the workflow and the software and hardware used
