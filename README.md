@@ -3,6 +3,14 @@
 
 This repository presents an integrated design-to-fabrication workflow combining parametric modeling, industrial robotics, and 3D vision sensing for the robotic fabrication of timber joinery.  
 
+### Tested Requirements
+- [Python](https://www.python.org/) 3.9.12
+- [Zivid SDK](https://www.zivid.com/downloads)
+- [RoboDK](https://robodk.com/download) 5.9
+- [Numpy](https://numpy.org/)
+- [Open3D](https://www.open3d.org/)
+- [SciPy](https://scipy.org/)
+
 ### Main Scripts
 
 - **A_camera_robot_calibration.py**  
